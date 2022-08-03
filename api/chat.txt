@@ -1,0 +1,12 @@
+[
+	{
+		"author": "mathiasfraga@hotmai.com",
+		"text": "Prueba Centro mensaje",
+		"date": "3/8/2022, 18:52:05"
+	},
+	{
+		"author": "mathiasfraga@hotmai.com",
+		"text": "mensaje2",
+		"date": "3/8/2022, 18:52:39"
+	}
+]
